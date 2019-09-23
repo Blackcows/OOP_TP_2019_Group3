@@ -1,5 +1,6 @@
 #include <stdio.h>
+#include <iostream>
 
 int main() {
-	printf("Hell World!");
+	std::cout << "Hello World!" << std::endl;
 }
